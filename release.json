@@ -3,15 +3,15 @@
 	"AppScanAppId" : "MFS.comServices",
 	"AppScanAppPath" : "MFSCOM-Services",
     "AppScanLargeScan" : "True",
-	"Notify": "developers@MFS.COM",
-    "PipelineApprover": "MFSMANAGER",
-	"UDeployApplicationName": "MFSCom-Services",
-	"UDeployComponentName": "MFSCom_Services",
-	"UDeployProcessName": "MFSCom-Services",
-    "UDeployArtifactToDeploy": "MFSServices",
-	"QaAutomationTestJob": "ServicesPipeline_Dev",
-    "DevTeamJIRA":"MFS",
+	"Notify" : "developers@MFS.COM",
+    "PipelineApprover" : "MFSMANAGER",
+	"UDeployApplicationName" : "MFSCom-Services",
+	"UDeployComponentName" : "MFSCom_Services",
+	"UDeployProcessName" : "MFSCom-Services",
+    "UDeployArtifactToDeploy" : "MFSServices",
+	"QaAutomationTestJob" : "ServicesPipeline_Dev",
+    "DevTeamJIRA" : "MFS",
 	"Other" : "",
-	"RORelations" : "microserviceA_java,microserviceB_python,microserviceC_angular"
-	"ReleaseTemplate": "java"
+	"RORelations" : "microserviceA_java,microserviceB_python,microserviceC_angular",
+	"ReleaseTemplate" : "java"
 }
