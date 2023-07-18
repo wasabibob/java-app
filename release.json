@@ -13,5 +13,7 @@
     "DevTeamJIRA" : "MFS",
 	"Other" : "",
 	"RORelations" : "microserviceA_java,microserviceB_python,microserviceC_angular",
-	"ReleaseTemplate" : "java"
+	"ReleaseTemplate" : "java",
+	"ReleaseStartDate" : "2023-07-21",
+	"ReleaseEndDate" : "2023-07-28"
 }
