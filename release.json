@@ -15,5 +15,5 @@
 	"RORelations" : "microserviceA_java,microserviceB_python,microserviceC_angular",
 	"ReleaseTemplate" : "java",
 	"ReleaseStartDate" : "2023-07-21",
-	"ReleaseEndDate" : "2023-07-30"
+	"ReleaseEndDate" : "2023-07-31"
 }
