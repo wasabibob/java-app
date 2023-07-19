@@ -15,5 +15,6 @@
 	"RORelations" : "microserviceA_java,microserviceB_python,microserviceC_angular",
 	"ReleaseTemplate" : "java",
 	"ReleaseStartDate" : "2023-07-21",
-	"ReleaseEndDate" : "2023-08-01"
+	"ReleaseEndDate" : "2023-08-07"
+	"ChangeRequestNumber" : "CHG0030005"
 }
